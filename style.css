@@ -4,6 +4,10 @@ span {
  body {
     text-align: center;
 }
+#spanimg{
+  height:200px;
+  width:200px;
+}
   /* span {
     display: inline-block;
     background-color: lightblue;
